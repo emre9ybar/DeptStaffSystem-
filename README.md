@@ -1,2 +1,2 @@
 # DeptStaffSystem-
- Departmanlar ve personellerle ilgili bir yönetim sistemi.
+ Üç klaslı Departmanlar ve personellerle ilgili bir yönetim sistemi.
